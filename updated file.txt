@@ -1,2 +1,2 @@
-Hello world!
-my test project and repo
+Hello Devops cloud!
+my first test repo committed.
